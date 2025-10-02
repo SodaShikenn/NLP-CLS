@@ -1,0 +1,4 @@
+matplotlib==3.10.6
+transformers
+torch
+scikit-learn
